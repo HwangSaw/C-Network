@@ -124,7 +124,7 @@ namespace TcpListener01
 }
 */
 
-// "네트워크 클래스 (3/5)" 강의 예제 2
+// "네트워크 클래스 (3/5)" 강의 예제 2  //서버프로그램이다. tcpListener클래스가 존재함으로. 
 /*
 using System;
 using System.Collections.Generic;

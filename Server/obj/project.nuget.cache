@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bud8uCvv6OIwnJCFT6RDHiWp6d35dbYJ2pjeh9JIXCKNKE+pMJX5JIC3KJNvP464pHFD80XbBQI/kXExH6XDVQ==",
+  "dgSpecHash": "RehUlUQNvTPWzLmIrxLsZHIn3xrApF6uaqwTgKllUrUcdFOt9k+A+R/JTY935I/A0BFFwGnkfb/08KLEsSaS4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\황소현\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "D:\\CSharpNet\\CSharpNetwork\\Server\\Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

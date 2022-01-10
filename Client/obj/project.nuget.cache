@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IB2Nk9Lk8VO+t6IcVvjYG+wY6zDdHjLZiq/vFWl4CX7ng/USg+Ris/ODJZD9fWm5Rky3n3kSccMjjPCb1nQtaQ==",
+  "dgSpecHash": "fuieRF0ej/dIyKjAbQPsYxjC5kblddWUKtHVS4B6heYQyjRoufYYRGUW6tpKJyWGN+pxLwARe62wDEhXIVM/Cw==",
   "success": true,
-  "projectFilePath": "D:\\CSharpNet\\CSharpNetwork\\CSharpNetWork2.csproj",
+  "projectFilePath": "D:\\CSharpNet\\CSharpNetwork\\Client\\ClientCode.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

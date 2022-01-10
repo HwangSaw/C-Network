@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharpNet\\CSharpNetwork\\CSharpNetWork2.csproj",
-      "projectName": "CSharpNetWork2",
-      "projectPath": "D:\\CSharpNet\\CSharpNetwork\\CSharpNetWork2.csproj",
+      "projectUniqueName": "D:\\CSharpNet\\CSharpNetwork\\Client\\ClientCode.csproj",
+      "projectName": "ClientCode",
+      "projectPath": "D:\\CSharpNet\\CSharpNetwork\\Client\\ClientCode.csproj",
       "packagesPath": "C:\\Users\\황소현\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharpNet\\CSharpNetwork\\obj\\",
+      "outputPath": "D:\\CSharpNet\\CSharpNetwork\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
