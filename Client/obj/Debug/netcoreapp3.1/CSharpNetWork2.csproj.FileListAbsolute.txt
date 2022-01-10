@@ -12,3 +12,17 @@ C:\Users\황소현\source\repos\CSharpNetwork\2\CSharpNetWork2\obj\Debug\netcore
 C:\Users\황소현\source\repos\CSharpNetwork\2\CSharpNetWork2\obj\Debug\netcoreapp3.1\CSharpNetWork2.dll
 C:\Users\황소현\source\repos\CSharpNetwork\2\CSharpNetWork2\obj\Debug\netcoreapp3.1\CSharpNetWork2.pdb
 C:\Users\황소현\source\repos\CSharpNetwork\2\CSharpNetWork2\obj\Debug\netcoreapp3.1\CSharpNetWork2.genruntimeconfig.cache
+D:\CSharpNet\CSharpNetwork\bin\Debug\netcoreapp3.1\CSharpNetWork2.exe
+D:\CSharpNet\CSharpNetwork\bin\Debug\netcoreapp3.1\CSharpNetWork2.deps.json
+D:\CSharpNet\CSharpNetwork\bin\Debug\netcoreapp3.1\CSharpNetWork2.runtimeconfig.json
+D:\CSharpNet\CSharpNetwork\bin\Debug\netcoreapp3.1\CSharpNetWork2.runtimeconfig.dev.json
+D:\CSharpNet\CSharpNetwork\bin\Debug\netcoreapp3.1\CSharpNetWork2.dll
+D:\CSharpNet\CSharpNetwork\bin\Debug\netcoreapp3.1\CSharpNetWork2.pdb
+D:\CSharpNet\CSharpNetwork\obj\Debug\netcoreapp3.1\CSharpNetWork2.csproj.AssemblyReference.cache
+D:\CSharpNet\CSharpNetwork\obj\Debug\netcoreapp3.1\CSharpNetWork2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpNet\CSharpNetwork\obj\Debug\netcoreapp3.1\CSharpNetWork2.AssemblyInfoInputs.cache
+D:\CSharpNet\CSharpNetwork\obj\Debug\netcoreapp3.1\CSharpNetWork2.AssemblyInfo.cs
+D:\CSharpNet\CSharpNetwork\obj\Debug\netcoreapp3.1\CSharpNetWork2.csproj.CoreCompileInputs.cache
+D:\CSharpNet\CSharpNetwork\obj\Debug\netcoreapp3.1\CSharpNetWork2.dll
+D:\CSharpNet\CSharpNetwork\obj\Debug\netcoreapp3.1\CSharpNetWork2.pdb
+D:\CSharpNet\CSharpNetwork\obj\Debug\netcoreapp3.1\CSharpNetWork2.genruntimeconfig.cache

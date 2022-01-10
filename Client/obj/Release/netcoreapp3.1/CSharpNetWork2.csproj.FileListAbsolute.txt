@@ -1,0 +1,13 @@
+D:\CSharpNet\CSharpNetwork\bin\Release\netcoreapp3.1\CSharpNetWork2.exe
+D:\CSharpNet\CSharpNetwork\bin\Release\netcoreapp3.1\CSharpNetWork2.deps.json
+D:\CSharpNet\CSharpNetwork\bin\Release\netcoreapp3.1\CSharpNetWork2.runtimeconfig.json
+D:\CSharpNet\CSharpNetwork\bin\Release\netcoreapp3.1\CSharpNetWork2.runtimeconfig.dev.json
+D:\CSharpNet\CSharpNetwork\bin\Release\netcoreapp3.1\CSharpNetWork2.dll
+D:\CSharpNet\CSharpNetwork\bin\Release\netcoreapp3.1\CSharpNetWork2.pdb
+D:\CSharpNet\CSharpNetwork\obj\Release\netcoreapp3.1\CSharpNetWork2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpNet\CSharpNetwork\obj\Release\netcoreapp3.1\CSharpNetWork2.AssemblyInfoInputs.cache
+D:\CSharpNet\CSharpNetwork\obj\Release\netcoreapp3.1\CSharpNetWork2.AssemblyInfo.cs
+D:\CSharpNet\CSharpNetwork\obj\Release\netcoreapp3.1\CSharpNetWork2.csproj.CoreCompileInputs.cache
+D:\CSharpNet\CSharpNetwork\obj\Release\netcoreapp3.1\CSharpNetWork2.dll
+D:\CSharpNet\CSharpNetwork\obj\Release\netcoreapp3.1\CSharpNetWork2.pdb
+D:\CSharpNet\CSharpNetwork\obj\Release\netcoreapp3.1\CSharpNetWork2.genruntimeconfig.cache
