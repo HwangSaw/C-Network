@@ -8,10 +8,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="EchoClient.cs" />
+    <Compile Remove="Lesson8EchoClient2.cs" />
+    <Compile Remove="Lesson8StreamRead.cs" />
     <Compile Remove="Program.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Lesson8EchoClient2.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="EchoClient.cs" />
+    <None Include="Lesson8StreamRead.cs" />
     <None Include="Program.cs" />
   </ItemGroup>
 
