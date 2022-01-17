@@ -12,3 +12,5 @@ D:\CSharpNet\CSharpNetwork\Client\obj\Debug\netcoreapp3.1\ClientCode.dll
 D:\CSharpNet\CSharpNetwork\Client\obj\Debug\netcoreapp3.1\ClientCode.pdb
 D:\CSharpNet\CSharpNetwork\Client\obj\Debug\netcoreapp3.1\ClientCode.genruntimeconfig.cache
 D:\CSharpNet\CSharpNetwork\Client\obj\Debug\netcoreapp3.1\ClientCode.csproj.AssemblyReference.cache
+D:\CSharpNet\CSharpNetwork\Client\obj\Debug\netcoreapp3.1\WinFormClient1.Form1.resources
+D:\CSharpNet\CSharpNetwork\Client\obj\Debug\netcoreapp3.1\ClientCode.csproj.GenerateResource.cache
