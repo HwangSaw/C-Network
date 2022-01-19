@@ -1,0 +1,14 @@
+D:\CSharpNet\CSharpNetwork\Client\bin\Debug\netcoreapp3.1\ClientCode.exe
+D:\CSharpNet\CSharpNetwork\Client\bin\Debug\netcoreapp3.1\ClientCode.deps.json
+D:\CSharpNet\CSharpNetwork\Client\bin\Debug\netcoreapp3.1\ClientCode.runtimeconfig.json
+D:\CSharpNet\CSharpNetwork\Client\bin\Debug\netcoreapp3.1\ClientCode.runtimeconfig.dev.json
+D:\CSharpNet\CSharpNetwork\Client\bin\Debug\netcoreapp3.1\ClientCode.dll
+D:\CSharpNet\CSharpNetwork\Client\bin\Debug\netcoreapp3.1\ClientCode.pdb
+D:\CSharpNet\CSharpNetwork\Client\obj\Debug\netcoreapp3.1\ClientCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpNet\CSharpNetwork\Client\obj\Debug\netcoreapp3.1\ClientCode.AssemblyInfoInputs.cache
+D:\CSharpNet\CSharpNetwork\Client\obj\Debug\netcoreapp3.1\ClientCode.AssemblyInfo.cs
+D:\CSharpNet\CSharpNetwork\Client\obj\Debug\netcoreapp3.1\ClientCode.csproj.CoreCompileInputs.cache
+D:\CSharpNet\CSharpNetwork\Client\obj\Debug\netcoreapp3.1\ClientCode.dll
+D:\CSharpNet\CSharpNetwork\Client\obj\Debug\netcoreapp3.1\ClientCode.pdb
+D:\CSharpNet\CSharpNetwork\Client\obj\Debug\netcoreapp3.1\ClientCode.genruntimeconfig.cache
+D:\CSharpNet\CSharpNetwork\Client\obj\Debug\netcoreapp3.1\ClientCode.csproj.AssemblyReference.cache
