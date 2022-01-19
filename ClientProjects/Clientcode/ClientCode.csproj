@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Compile Remove="EchoClient.cs" />
+    <Compile Remove="Lesson12Thread1.cs" />
     <Compile Remove="Lesson8EchoClient2.cs" />
     <Compile Remove="Lesson8StreamRead.cs" />
     <Compile Remove="Lesson9BinaryReader01.cs" />
@@ -16,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Lesson12Thread1.cs" />
     <None Include="Lesson8EchoClient2.cs" />
   </ItemGroup>
 
