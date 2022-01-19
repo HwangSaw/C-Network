@@ -1,3 +1,10 @@
 /Client/.vs
 /.vs
 /Server/.vs
+/ServerProjects/ServerCodes/.vs
+/ServerProjects/.vs/ServerCodes/v16/*.suo
+/ServerProjects/.vs/ServerCodes/DesignTimeBuild/*.v2
+/ClientProjects/Clientcode/.vs/ClientCodes/v16/*.suo
+/ClientProjects/Clientcode/.vs/ClientCodes/DesignTimeBuild/*.v2
+/ClientProjects/Clientcode/.vs/ClientCode/v16/*.suo
+/ClientProjects/.vs/ClientCodes/v16/*.suo
