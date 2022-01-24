@@ -1,0 +1,10 @@
+D:\CSharpNet\CSharpNetwork\ServerProjects\WinFormCode2\bin\Debug\WinFormCode2.exe.config
+D:\CSharpNet\CSharpNetwork\ServerProjects\WinFormCode2\bin\Debug\WinFormCode2.exe
+D:\CSharpNet\CSharpNetwork\ServerProjects\WinFormCode2\bin\Debug\WinFormCode2.pdb
+D:\CSharpNet\CSharpNetwork\ServerProjects\WinFormCode2\obj\Debug\WinFormCode2.csproj.AssemblyReference.cache
+D:\CSharpNet\CSharpNetwork\ServerProjects\WinFormCode2\obj\Debug\WinFormCode2.Form1.resources
+D:\CSharpNet\CSharpNetwork\ServerProjects\WinFormCode2\obj\Debug\WinFormCode2.Properties.Resources.resources
+D:\CSharpNet\CSharpNetwork\ServerProjects\WinFormCode2\obj\Debug\WinFormCode2.csproj.GenerateResource.cache
+D:\CSharpNet\CSharpNetwork\ServerProjects\WinFormCode2\obj\Debug\WinFormCode2.csproj.CoreCompileInputs.cache
+D:\CSharpNet\CSharpNetwork\ServerProjects\WinFormCode2\obj\Debug\WinFormCode2.exe
+D:\CSharpNet\CSharpNetwork\ServerProjects\WinFormCode2\obj\Debug\WinFormCode2.pdb
