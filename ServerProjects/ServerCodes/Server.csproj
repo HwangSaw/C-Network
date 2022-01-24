@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -8,6 +8,10 @@
   <ItemGroup>
     <Compile Remove="Lesson14Async1bar2.cs" />
     <Compile Remove="Lesson14Async2.cs" />
+    <Compile Remove="Lesson14Async3.cs" />
+    <Compile Remove="Lesson15Async1.cs" />
+    <Compile Remove="Lesson15Async2.cs" />
+    <Compile Remove="Lesson15Mutex1.cs" />
     <Compile Remove="Lesson8EchoServer2.cs" />
     <Compile Remove="Lesson8StreamWriter01.cs" />
     <Compile Remove="Lesson9BinaryWrite01.cs" />
@@ -17,6 +21,10 @@
   <ItemGroup>
     <None Include="Lesson14Async1bar2.cs" />
     <None Include="Lesson14Async2.cs" />
+    <None Include="Lesson14Async3.cs" />
+    <None Include="Lesson15Async1.cs" />
+    <None Include="Lesson15Async2.cs" />
+    <None Include="Lesson15Mutex1.cs" />
     <None Include="Lesson8EchoServer2.cs" />
     <None Include="Lesson8StreamWriter01.cs" />
     <None Include="Lesson9BinaryWrite01.cs" />
