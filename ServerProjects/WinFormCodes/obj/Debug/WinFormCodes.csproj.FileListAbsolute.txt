@@ -8,3 +8,12 @@ D:\CSharpNet\CSharpNetwork\WinFormCodes\obj\Debug\WinFormCodes.csproj.GenerateRe
 D:\CSharpNet\CSharpNetwork\WinFormCodes\obj\Debug\WinFormCodes.csproj.CoreCompileInputs.cache
 D:\CSharpNet\CSharpNetwork\WinFormCodes\obj\Debug\WinFormCodes.exe
 D:\CSharpNet\CSharpNetwork\WinFormCodes\obj\Debug\WinFormCodes.pdb
+D:\CSharpNet\CSharpNetwork\ServerProjects\WinFormCodes\bin\Debug\WinFormCodes.exe.config
+D:\CSharpNet\CSharpNetwork\ServerProjects\WinFormCodes\bin\Debug\WinFormCodes.exe
+D:\CSharpNet\CSharpNetwork\ServerProjects\WinFormCodes\bin\Debug\WinFormCodes.pdb
+D:\CSharpNet\CSharpNetwork\ServerProjects\WinFormCodes\obj\Debug\WinFormCodes.Form1.resources
+D:\CSharpNet\CSharpNetwork\ServerProjects\WinFormCodes\obj\Debug\WinFormCodes.Properties.Resources.resources
+D:\CSharpNet\CSharpNetwork\ServerProjects\WinFormCodes\obj\Debug\WinFormCodes.csproj.GenerateResource.cache
+D:\CSharpNet\CSharpNetwork\ServerProjects\WinFormCodes\obj\Debug\WinFormCodes.csproj.CoreCompileInputs.cache
+D:\CSharpNet\CSharpNetwork\ServerProjects\WinFormCodes\obj\Debug\WinFormCodes.exe
+D:\CSharpNet\CSharpNetwork\ServerProjects\WinFormCodes\obj\Debug\WinFormCodes.pdb

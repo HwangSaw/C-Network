@@ -36,7 +36,6 @@ namespace WinFormCode2
                     string str = ((IPEndPoint)tcpClient.Client.RemoteEndPoint).Address.ToString();
                     this.ListAddItem(str);
                     //크로스 스레드 작업이 잘못되었습니다. 'listBox1' 컨트롤이 자신이 만들어진 스레드가 아닌 스레드에서 액세스되었습니다 <- 아래 주석풀면 에러난다. 
-
                     //listBox1.Items.Add(str);
                 }
 
